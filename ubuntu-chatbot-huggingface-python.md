@@ -70,7 +70,7 @@
 
 Remember to activate your virtual environment (`source chatbot_env/bin/activate`) whenever you're working on your chatbot project. This setup provides a solid foundation for developing Hugging Face chatbots on Ubuntu.
 
-Citations:
+<!-- Citations:
 [1] <https://www.geeksforgeeks.org/how-to-install-python-in-ubuntu/>
 [2] <https://phoenixnap.com/kb/how-to-install-python-3-ubuntu>
 [3] <https://www.eukhost.com/kb/how-to-install-and-switch-python-versions-on-ubuntu-22-04/>
@@ -78,4 +78,4 @@ Citations:
 [5] <https://www.youtube.com/watch?v=9QftEX6yZP4>
 [6] <https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server>
 [7] <https://discuss.python.org/t/install-python-3-11-9-on-ubuntu/51093>
-[8] <https://forums.docker.com/t/how-to-run-multiple-wordpress-instances-using-docker/94836>
+[8] <https://forums.docker.com/t/how-to-run-multiple-wordpress-instances-using-docker/94836> -->
