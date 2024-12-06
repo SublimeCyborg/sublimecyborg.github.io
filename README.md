@@ -1,4 +1,4 @@
-# Blog Posts
+# Articles
 
 - [Building a Modern Web Application with Next.js, Drupal, and AI Integration](./building-web-app-react-nextjs-drupal.md)
 - [Setup Ubuntu for Hugging Face chatbot development in python](./ubuntu-chatbot-huggingface-python.md)
@@ -9,9 +9,10 @@
 
 - VSCode as a text editor for static sites
 - Use GitHub Pages and an IDE for blog sites
-- Generative AI for mental health chatbots
+- Generative AI for mental health chatbots, ensuring safe advice.
 - DevOps tools for freelancers
-- Why I stuck with Drupal
+- How not to reinvent the wheel: content management systems
+- Energy consumption for AI = exponential rate of change?
 
 ## Site ToDos
 
