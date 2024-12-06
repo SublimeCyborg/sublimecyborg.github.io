@@ -19,4 +19,4 @@
 - Styling (can I still use markdown?)
 - Create sub-directory for posts and images
 - Meta tags, keywords and SEO
-- 
+- Layout in markdown, or mix with HTML?
